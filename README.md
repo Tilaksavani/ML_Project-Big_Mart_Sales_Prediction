@@ -1,4 +1,4 @@
-# ML_Project-Big_Mart_Sales_Prediction
+# ML_Project-🏪Big_Mart_Sales_Prediction🏪
 
 This project tackles the task of predicting sales figures for products at Bid Mart using XGBRegressor, a powerful machine learning technique. By analyzing historical sales data and product attributes, the model aims to identify patterns that can be used to forecast future sales performance.
 
